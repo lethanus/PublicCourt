@@ -10,7 +10,7 @@ namespace PC.Core
         {
         }
 
-        public ICollection<CourtCase> Cases
+        public IEnumerable<CourtCase> Cases
         {
             get { return cases; }
         }
