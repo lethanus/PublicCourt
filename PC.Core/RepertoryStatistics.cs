@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace PC.Core
 {
-    public enum StatisitcType { Input, Closed, Open };
+    public enum StatisitcType { Input, Closed, Open, OpenFromPreviousYears };
     public class RepertoryStatistics
     {
         private DateTime statisticDate;
@@ -25,6 +25,8 @@ namespace PC.Core
                     return ClosedCases(courtCaseRepertory).Count();
                 case StatisitcType.Open:
                     return OpenCases(courtCaseRepertory).Count();
+                case StatisitcType.OpenFromPreviousYears:
+                    return OpenCasesFromPreviousYears(courtCaseRepertory).Count();
                 default:
                     return -1;
             }
@@ -44,5 +46,10 @@ namespace PC.Core
         {
             return courtCaseRepertory.Cases.Where(c => c.CloseDate == null);
         }
+        private IEnumerable<CourtCase> OpenCasesFromPreviousYears(CourtCaseRepertory courtCaseRepertory)
+        {
+            return courtCaseRepertory.Cases.Where(c => c.CloseDate == null && c.InputDate > c.OriginalInputDate);
+        }
+
     }
 }

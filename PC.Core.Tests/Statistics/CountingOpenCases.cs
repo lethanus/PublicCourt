@@ -24,5 +24,22 @@ namespace PC.Core.Tests.Statistics
             StatisticVerification.CheckStatistics(1, repertoryStatistics, courtCaseRepertory);
         }
 
+
+        [Fact]
+        public void OpenCourtCaseFromPreviousYearShouldAppearInStatistics()
+        {
+            var statisticDate = new DateTime(2017, 12, 31);
+            var statisticType = StatisitcType.OpenFromPreviousYears;
+            var inputDate = new DateTime(2017, 2, 1);
+            var originalInputDate = new DateTime(2015, 4, 1);
+            var courtCase = new CourtCase(inputDate, originalInputDate);
+
+            var courtCaseRepertory = new CourtCaseRepertory();
+            var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
+
+            StatisticVerification.CheckStatistics(0, repertoryStatistics, courtCaseRepertory);
+            courtCaseRepertory.Add(courtCase);
+            StatisticVerification.CheckStatistics(1, repertoryStatistics, courtCaseRepertory);
+        }
     }
 }
