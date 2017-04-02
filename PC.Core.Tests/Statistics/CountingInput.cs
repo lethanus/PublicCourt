@@ -15,13 +15,8 @@ namespace PC.Core.Tests.Statistics
             var statisticType = StatisticType.Input;
             var inputDate = new DateTime(2017, 4, 1);
             var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate);
-            var courtCaseRepertory = new CourtCaseRepertory();
-            var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
 
-            StatisticVerification.CheckStatistics(0, repertoryStatistics, courtCaseRepertory);
-            courtCaseRepertory.Add(courtCase);
-            StatisticVerification.CheckStatistics(1, repertoryStatistics, courtCaseRepertory);
-
+            StatisticVerification.TestStatistic(courtCase, statisticDate, 1, statisticType);
             Assert.Equal(courtCase.InputDate, courtCase.OriginalInputDate);
         }
 
@@ -33,13 +28,8 @@ namespace PC.Core.Tests.Statistics
             var originalInputDate = new DateTime(2015, 4, 1);
             var inputDate = new DateTime(2017, 4, 1);
             var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate, originalInputDate);
-            var courtCaseRepertory = new CourtCaseRepertory();
-            var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
 
-            StatisticVerification.CheckStatistics(0, repertoryStatistics, courtCaseRepertory);
-            courtCaseRepertory.Add(courtCase);
-            StatisticVerification.CheckStatistics(1, repertoryStatistics, courtCaseRepertory);
-
+            StatisticVerification.TestStatistic(courtCase, statisticDate, 1, statisticType);
             Assert.NotEqual(courtCase.InputDate, courtCase.OriginalInputDate);
         }
 

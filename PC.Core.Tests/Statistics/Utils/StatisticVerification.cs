@@ -7,8 +7,17 @@ namespace PC.Core.Tests.Statistics.Utils
 {
     public class StatisticVerification
     {
+        public static void TestStatistic(CourtCase courtCase, DateTime statisticDate, int expectedValue, StatisticType statisticType)
+        {
+            var courtCaseRepertory = new CourtCaseRepertory();
+            var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
 
-        public static void CheckStatistics(int expectedValue, RepertoryStatistics repertoryStatistics, CourtCaseRepertory courtCaseRepertory)
+            CheckStatistics(0, repertoryStatistics, courtCaseRepertory);
+            courtCaseRepertory.Add(courtCase);
+            CheckStatistics(expectedValue, repertoryStatistics, courtCaseRepertory);
+        }
+
+        private static void CheckStatistics(int expectedValue, RepertoryStatistics repertoryStatistics, CourtCaseRepertory courtCaseRepertory)
         {
             Assert.Equal(expectedValue, repertoryStatistics.GetStatisticValue(courtCaseRepertory));
         }
