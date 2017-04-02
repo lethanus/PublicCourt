@@ -7,36 +7,40 @@ namespace PC.Core
     public enum StatisitcType { Input, Closed, Open };
     public class RepertoryStatistics
     {
-        public RepertoryStatistics()
+        private DateTime statisticDate;
+        private StatisitcType statisitcType;
+        public RepertoryStatistics(DateTime statisticDate, StatisitcType statisitcType)
         {
+            this.statisticDate = statisticDate;
+            this.statisitcType = statisitcType;
         }
 
-        public int GetStatisticValue(StatisitcType statisitcType, CourtCaseRepertory courtCaseRepertory, DateTime statisticDate)
+        public int GetStatisticValue(CourtCaseRepertory courtCaseRepertory)
         {
             switch(statisitcType)
             {
                 case StatisitcType.Input:
-                    return NewCases(courtCaseRepertory, statisticDate).Count();
+                    return NewCases(courtCaseRepertory).Count();
                 case StatisitcType.Closed:
-                    return ClosedCases(courtCaseRepertory, statisticDate).Count();
+                    return ClosedCases(courtCaseRepertory).Count();
                 case StatisitcType.Open:
-                    return OpenCases(courtCaseRepertory, statisticDate).Count();
+                    return OpenCases(courtCaseRepertory).Count();
                 default:
                     return -1;
             }
         }
 
-        private IEnumerable<CourtCase> NewCases(CourtCaseRepertory courtCaseRepertory, DateTime statisticDate)
+        private IEnumerable<CourtCase> NewCases(CourtCaseRepertory courtCaseRepertory)
         {
             return courtCaseRepertory.Cases.Where(c => c.InputDate.Year == statisticDate.Year);
         }
 
-        private IEnumerable<CourtCase> ClosedCases(CourtCaseRepertory courtCaseRepertory, DateTime statisticDate)
+        private IEnumerable<CourtCase> ClosedCases(CourtCaseRepertory courtCaseRepertory)
         {
             return courtCaseRepertory.Cases.Where(c => c.CloseDate.HasValue && c.CloseDate.Value.Year == statisticDate.Year);
         }
 
-        private IEnumerable<CourtCase> OpenCases(CourtCaseRepertory courtCaseRepertory, DateTime statisticYear)
+        private IEnumerable<CourtCase> OpenCases(CourtCaseRepertory courtCaseRepertory)
         {
             return courtCaseRepertory.Cases.Where(c => c.CloseDate == null);
         }

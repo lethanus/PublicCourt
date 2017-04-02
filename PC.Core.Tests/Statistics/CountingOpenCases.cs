@@ -17,11 +17,11 @@ namespace PC.Core.Tests.Statistics
             var courtCase = new CourtCase(inputDate);
 
             var courtCaseRepertory = new CourtCaseRepertory();
-            var repertoryStatistics = new RepertoryStatistics();
+            var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
 
-            StatisticVerification.CheckStatistics(0, statisticType, repertoryStatistics, courtCaseRepertory, statisticDate);
+            StatisticVerification.CheckStatistics(0, repertoryStatistics, courtCaseRepertory);
             courtCaseRepertory.Add(courtCase);
-            StatisticVerification.CheckStatistics(1, statisticType, repertoryStatistics, courtCaseRepertory, statisticDate);
+            StatisticVerification.CheckStatistics(1, repertoryStatistics, courtCaseRepertory);
         }
 
     }

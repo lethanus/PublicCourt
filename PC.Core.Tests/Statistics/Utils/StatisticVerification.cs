@@ -8,9 +8,9 @@ namespace PC.Core.Tests.Statistics.Utils
     public class StatisticVerification
     {
 
-        public static void CheckStatistics(int expectedValue, StatisitcType statisticType, RepertoryStatistics repertoryStatistics, CourtCaseRepertory courtCaseRepertory, DateTime statisticDate)
+        public static void CheckStatistics(int expectedValue, RepertoryStatistics repertoryStatistics, CourtCaseRepertory courtCaseRepertory)
         {
-            Assert.Equal(expectedValue, repertoryStatistics.GetStatisticValue(statisticType, courtCaseRepertory, statisticDate));
+            Assert.Equal(expectedValue, repertoryStatistics.GetStatisticValue(courtCaseRepertory));
         }
     }
 }
