@@ -3,7 +3,7 @@ using Xunit;
 using PC.Core;
 using System.Linq;
 
-namespace PC.Core.Tests.CountingInput
+namespace PC.Core.Tests.Statistics
 {
     public class CountingInput
     {

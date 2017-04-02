@@ -15,5 +15,9 @@ namespace PC.Core
             return courtCaseRepertory.Cases.Where(c => c.InputDate.Year == statisticYear).Count();
         }
 
+        public int GetAmountOfClosedCases(CourtCaseRepertory courtCaseRepertory, int statisticYear)
+        {
+            return courtCaseRepertory.Cases.Where(c => c.CloseDate.Year == statisticYear).Count();
+        }
     }
 }

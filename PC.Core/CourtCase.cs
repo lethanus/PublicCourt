@@ -4,22 +4,28 @@ namespace PC.Core
 {
     public class CourtCase
     {
-        private DateTime inputDate;
-        private DateTime originalInputDate;
+        private readonly DateTime inputDate;
+        private readonly DateTime originalInputDate;
+        private DateTime closeDate;
 
         public CourtCase(DateTime inputDate)
         {
-            this.InputDate = inputDate;
+            this.inputDate = inputDate;
             this.originalInputDate = inputDate;
         }
 
         public CourtCase(DateTime inputDate, DateTime originalInputDate) : this(inputDate)
         {
-            this.OriginalInputDate = originalInputDate;
+            this.originalInputDate = originalInputDate;
         }
 
-        public DateTime InputDate { get => inputDate; set => inputDate = value; }
-        public DateTime OriginalInputDate { get => originalInputDate; set => originalInputDate = value; }
+        public void CloseCase(DateTime closeDate)
+        {
+            this.closeDate = closeDate;
+        }
 
+        public DateTime InputDate { get => inputDate; }
+        public DateTime OriginalInputDate { get => originalInputDate; }
+        public DateTime CloseDate { get => closeDate; }
     }
 }
