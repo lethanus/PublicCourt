@@ -11,7 +11,7 @@ namespace PC.Core.Tests.Statistics
         [Fact]
         public void ClosedCourtCaseShouldAppearInStatistics()
         {
-            var statisticType = StatisitcType.Closed;
+            var statisticType = StatisticType.Closed;
             var statisticDate = new DateTime(2017, 12, 31);
             var inputDate = new DateTime(2017, 2, 1);
             var closeDate = new DateTime(2017, 3, 22);
