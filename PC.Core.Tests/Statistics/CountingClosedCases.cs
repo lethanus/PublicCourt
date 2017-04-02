@@ -8,13 +8,13 @@ namespace PC.Core.Tests.Statistics
 {
     public class CountingClosedCases
     {
-        [Fact]
-        public void ClosedCourtCaseShouldAppearInStatistics()
+        [Theory]
+        [InlineData("2017-12-31", "2017-02-01", "2017-03-22", 1, StatisticType.Closed)]
+        public void ClosedCourtCaseShouldAppearInStatistics(string statisticDateString, string inputDateString, string closeDateString, int expectedValue, StatisticType statisticType)
         {
-            var statisticType = StatisticType.Closed;
-            var statisticDate = new DateTime(2017, 12, 31);
-            var inputDate = new DateTime(2017, 2, 1);
-            var closeDate = new DateTime(2017, 3, 22);
+            var statisticDate = DateTime.Parse(statisticDateString);
+            var inputDate = DateTime.Parse(inputDateString);
+            var closeDate = DateTime.Parse(closeDateString);
             var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate, inputDate, closeDate);
 
             StatisticVerification.TestStatistic(courtCase, statisticDate, 1, statisticType);

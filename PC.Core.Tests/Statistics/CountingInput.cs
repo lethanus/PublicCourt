@@ -8,28 +8,28 @@ namespace PC.Core.Tests.Statistics
 {
     public class CountingInput
     {
-        [Fact]
-        public void NewCourtCaseShouldAppearInStatistics()
+        [Theory]
+        [InlineData("2017-12-31", "2017-04-01", 1, StatisticType.Input)]
+        public void NewCourtCaseShouldAppearInStatistics(string statisticDateString, string inputDateString, int expectedValue, StatisticType statisticType)
         {
-            var statisticDate = new DateTime(2017, 12, 31);
-            var statisticType = StatisticType.Input;
-            var inputDate = new DateTime(2017, 4, 1);
+            var statisticDate = DateTime.Parse(statisticDateString);
+            var inputDate = DateTime.Parse(inputDateString);
             var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate);
 
             StatisticVerification.TestStatistic(courtCase, statisticDate, 1, statisticType);
             Assert.Equal(courtCase.InputDate, courtCase.OriginalInputDate);
         }
 
-        [Fact]
-        public void NewReopenedCourtCaseShouldAppearInStatistics()
+        [Theory]
+        [InlineData("2017-12-31", "2017-04-01", "2015-04-01", 1, StatisticType.Input)]
+        public void NewReopenedCourtCaseShouldAppearInStatistics(string statisticDateString, string inputDateString, string originalInputDateString, int expectedValue, StatisticType statisticType)
         {
-            var statisticDate = new DateTime(2017, 12, 31);
-            var statisticType = StatisticType.Input;
-            var originalInputDate = new DateTime(2015, 4, 1);
-            var inputDate = new DateTime(2017, 4, 1);
+            var statisticDate = DateTime.Parse(statisticDateString);
+            var inputDate = DateTime.Parse(inputDateString);
+            var originalInputDate = DateTime.Parse(originalInputDateString);
             var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate, originalInputDate);
 
-            StatisticVerification.TestStatistic(courtCase, statisticDate, 1, statisticType);
+            StatisticVerification.TestStatistic(courtCase, statisticDate, expectedValue, statisticType);
             Assert.NotEqual(courtCase.InputDate, courtCase.OriginalInputDate);
         }
 
