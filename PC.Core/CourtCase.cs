@@ -6,7 +6,7 @@ namespace PC.Core
     {
         private readonly DateTime inputDate;
         private readonly DateTime originalInputDate;
-        private DateTime closeDate;
+        private DateTime? closeDate;
 
         public CourtCase(DateTime inputDate)
         {
@@ -26,6 +26,6 @@ namespace PC.Core
 
         public DateTime InputDate { get => inputDate; }
         public DateTime OriginalInputDate { get => originalInputDate; }
-        public DateTime CloseDate { get => closeDate; }
+        public DateTime? CloseDate { get => closeDate; }
     }
 }

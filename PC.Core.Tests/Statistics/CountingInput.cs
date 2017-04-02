@@ -11,13 +11,16 @@ namespace PC.Core.Tests.Statistics
         [Fact]
         public void NewCourtCaseShouldAppearInStatistics()
         {
+            var statisticDate = new DateTime(2017, 12, 31);
             var statisticType = StatisitcType.Input;
             var inputDate = new DateTime(2017, 4, 1);
             var courtCase = new CourtCase(inputDate);
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics();
 
-            StatisticVerification.AddCaseAndCheckStatistics(statisticType, repertoryStatistics, courtCaseRepertory, courtCase);
+            StatisticVerification.CheckStatistics(0, statisticType, repertoryStatistics, courtCaseRepertory, statisticDate);
+            courtCaseRepertory.Add(courtCase);
+            StatisticVerification.CheckStatistics(1, statisticType, repertoryStatistics, courtCaseRepertory, statisticDate);
 
             Assert.Equal(courtCase.InputDate, courtCase.OriginalInputDate);
         }
@@ -25,6 +28,7 @@ namespace PC.Core.Tests.Statistics
         [Fact]
         public void NewReopenedCourtCaseShouldAppearInStatistics()
         {
+            var statisticDate = new DateTime(2017, 12, 31);
             var statisticType = StatisitcType.Input;
             var originalInputDate = new DateTime(2015, 4, 1);
             var inputDate = new DateTime(2017, 4, 1);
@@ -32,7 +36,9 @@ namespace PC.Core.Tests.Statistics
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics();
 
-            StatisticVerification.AddCaseAndCheckStatistics(statisticType, repertoryStatistics, courtCaseRepertory, courtCase);
+            StatisticVerification.CheckStatistics(0, statisticType, repertoryStatistics, courtCaseRepertory, statisticDate);
+            courtCaseRepertory.Add(courtCase);
+            StatisticVerification.CheckStatistics(1, statisticType, repertoryStatistics, courtCaseRepertory, statisticDate);
 
             Assert.NotEqual(courtCase.InputDate, courtCase.OriginalInputDate);
         }
