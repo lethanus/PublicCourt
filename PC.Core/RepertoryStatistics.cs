@@ -12,7 +12,7 @@ namespace PC.Core
 
         public int GetAmountOfNewCases(CourtCaseRepertory courtCaseRepertory, int statisticYear)
         {
-            return courtCaseRepertory.Cases.Where(c => c.InputYear == statisticYear).Count();
+            return courtCaseRepertory.Cases.Where(c => c.InputDate.Year == statisticYear).Count();
         }
 
     }

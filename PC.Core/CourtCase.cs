@@ -5,15 +5,21 @@ namespace PC.Core
     public class CourtCase
     {
         private DateTime inputDate;
+        private DateTime originalInputDate;
 
         public CourtCase(DateTime inputDate)
         {
-            this.inputDate = inputDate;
+            this.InputDate = inputDate;
+            this.originalInputDate = inputDate;
         }
 
-        public int InputYear
+        public CourtCase(DateTime inputDate, DateTime originalInputDate) : this(inputDate)
         {
-            get { return inputDate.Year; }
+            this.OriginalInputDate = originalInputDate;
         }
+
+        public DateTime InputDate { get => inputDate; set => inputDate = value; }
+        public DateTime OriginalInputDate { get => originalInputDate; set => originalInputDate = value; }
+
     }
 }
