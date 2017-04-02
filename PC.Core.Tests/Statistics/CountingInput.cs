@@ -1,6 +1,7 @@
 using System;
 using Xunit;
 using PC.Core;
+using System.Linq;
 
 namespace PC.Core.Tests.CountingInput
 {
@@ -14,15 +15,7 @@ namespace PC.Core.Tests.CountingInput
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics();
 
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2016));
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2017));
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2018));
-
-            courtCaseRepertory.Add(courtCase);
-
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2016));
-            Assert.Equal(1, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2017));
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2018));
+            AddNewCaseAndCheckStatistics(repertoryStatistics, courtCaseRepertory, courtCase);
 
             Assert.Equal(courtCase.InputDate, courtCase.OriginalInputDate);
         }
@@ -36,17 +29,27 @@ namespace PC.Core.Tests.CountingInput
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics();
 
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2016));
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2017));
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2018));
+            AddNewCaseAndCheckStatistics(repertoryStatistics, courtCaseRepertory, courtCase);
+
+            Assert.NotEqual(courtCase.InputDate, courtCase.OriginalInputDate);
+        }
+
+        private void AddNewCaseAndCheckStatistics(RepertoryStatistics repertoryStatistics, CourtCaseRepertory courtCaseRepertory, CourtCase courtCase)
+        {
+            VerifyAmountOfNewCases(repertoryStatistics, courtCaseRepertory, 0, courtCase.InputDate.Year - 1);
+            VerifyAmountOfNewCases(repertoryStatistics, courtCaseRepertory, 0, courtCase.InputDate.Year);
+            VerifyAmountOfNewCases(repertoryStatistics, courtCaseRepertory, 0, courtCase.InputDate.Year + 1);
 
             courtCaseRepertory.Add(courtCase);
 
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2016));
-            Assert.Equal(1, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2017));
-            Assert.Equal(0, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, 2018));
+            VerifyAmountOfNewCases(repertoryStatistics, courtCaseRepertory, 0, courtCase.InputDate.Year - 1);
+            VerifyAmountOfNewCases(repertoryStatistics, courtCaseRepertory, 1, courtCase.InputDate.Year);
+            VerifyAmountOfNewCases(repertoryStatistics, courtCaseRepertory, 0, courtCase.InputDate.Year + 1);
+        }
 
-            Assert.NotEqual(courtCase.InputDate, courtCase.OriginalInputDate);
+        private void VerifyAmountOfNewCases(RepertoryStatistics repertoryStatistics, CourtCaseRepertory courtCaseRepertory, int expected, int statisticYear)
+        {
+            Assert.Equal(expected, repertoryStatistics.GetAmountOfNewCases(courtCaseRepertory, statisticYear));
         }
     }
 }
