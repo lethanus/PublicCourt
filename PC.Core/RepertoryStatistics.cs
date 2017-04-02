@@ -44,7 +44,7 @@ namespace PC.Core
 
         private IEnumerable<CourtCase> OpenCases(CourtCaseRepertory courtCaseRepertory)
         {
-            return courtCaseRepertory.Cases.Where(c => c.CloseDate == null);
+            return courtCaseRepertory.Cases.Where(c => c.CloseDate == null && c.InputDate < statisticDate);
         }
         private IEnumerable<CourtCase> OpenCasesFromPreviousYears(CourtCaseRepertory courtCaseRepertory)
         {
