@@ -14,7 +14,7 @@ namespace PC.Core.Tests.Statistics
             var statisticDate = new DateTime(2017, 12, 31);
             var statisticType = StatisticType.Input;
             var inputDate = new DateTime(2017, 4, 1);
-            var courtCase = new CourtCase(inputDate);
+            var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate);
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
 
@@ -32,7 +32,7 @@ namespace PC.Core.Tests.Statistics
             var statisticType = StatisticType.Input;
             var originalInputDate = new DateTime(2015, 4, 1);
             var inputDate = new DateTime(2017, 4, 1);
-            var courtCase = new CourtCase(inputDate, originalInputDate);
+            var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate, originalInputDate);
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
 

@@ -16,7 +16,7 @@ namespace PC.Core.Tests.Statistics
         {
             var statisticDate = DateTime.Parse(statisticDateString);
             var inputDate = DateTime.Parse(inputDateString);
-            var courtCase = new CourtCase(inputDate);
+            var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate);
 
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
@@ -36,7 +36,7 @@ namespace PC.Core.Tests.Statistics
             var statisticDate = DateTime.Parse(statisticDateString);
             var inputDate = DateTime.Parse(inputDateString);
             var originalInputDate = DateTime.Parse(originalInputDateString);
-            var courtCase = new CourtCase(inputDate, originalInputDate);
+            var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate, originalInputDate);
 
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
@@ -45,5 +45,7 @@ namespace PC.Core.Tests.Statistics
             courtCaseRepertory.Add(courtCase);
             StatisticVerification.CheckStatistics(expectedValue, repertoryStatistics, courtCaseRepertory);
         }
+
+
     }
 }

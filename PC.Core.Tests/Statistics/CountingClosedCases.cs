@@ -15,8 +15,7 @@ namespace PC.Core.Tests.Statistics
             var statisticDate = new DateTime(2017, 12, 31);
             var inputDate = new DateTime(2017, 2, 1);
             var closeDate = new DateTime(2017, 3, 22);
-            var courtCase = new CourtCase(inputDate);
-            courtCase.CloseCase(closeDate);
+            var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate, inputDate, closeDate);
 
             var courtCaseRepertory = new CourtCaseRepertory();
             var repertoryStatistics = new RepertoryStatistics(statisticDate, statisticType);
