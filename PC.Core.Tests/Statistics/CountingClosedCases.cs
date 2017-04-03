@@ -15,6 +15,9 @@ namespace PC.Core.Tests.Statistics
         [InlineData("2017-12-31", "2015-02-01", "2016-03-22", 0, StatisticType.ClosedThisYear)]
         [InlineData("2017-12-31", "2015-02-01", "2017-03-22", 1, StatisticType.ClosedThisYear)]
         [InlineData("2016-12-31", "2015-02-01", "2017-03-22", 0, StatisticType.ClosedThisYear)]
+        [InlineData("2017-12-31", "2015-02-01", "2017-03-22", 1, StatisticType.ClosedThisYearFromPreviousYears)]
+        [InlineData("2016-12-31", "2016-02-01", "2016-03-22", 0, StatisticType.ClosedThisYearFromPreviousYears)]
+        [InlineData("2017-12-31", "2015-02-01", "2016-03-22", 0, StatisticType.ClosedThisYearFromPreviousYears)]
         public void ClosedCourtCaseShouldAppearInStatistics(string statisticDateString,
             string inputDateString, string closeDateString, int expectedValue,
             StatisticType statisticType)
