@@ -1,0 +1,374 @@
+﻿Sąd Apelacyjny w Białymstoku|Mickiewicza 5|15-213|(85) 743 07 27 |(85) 732 90 01|boi@bialystok.sa.gov.pl 
+Sąd Okręgowy w Białymstoku|M. Skłodowskiej-Curie 1|15-950|(85) 742 23 46|(85) 742 46 40|boi@bialystok.so.gov.pl
+Sąd Rejonowy w Białymstoku|Mickiewicza 103|15-950|(85) 665 65 10|(85) 665 63 33|boi@bialystok.sr.gov.pl
+Sąd Rejonowy w Bielsku Podlaskim|3 Maja  7|17-100|(85) 731 21 65, 731 21 67|(85) 731 21 68|boi@bielsk-podlaski.sr.gov.pl
+Sąd Rejonowy w Sokółce|Marszałka Józefa Piłsudskiego 7|16-100|(85) 711 41 29|(85) 711 41 29 wew. 305|boi@sokolka.sr.gopv.pl
+Sąd Okręgowy w Ostrołęce|Gomulickiego 5|07-410|(29) 765 01 28, 765 01 12|(29) 765 01 84|boi@ostroleka.so.gov.pl
+Sąd Rejonowy w Ostrołęce|Mazowiecka 3|07-410|(29) 765 44 00, 765 44 01|(29) 765 44 38|boi@ostroleka.sr.gov.pl
+Sąd Rejonowy w Ostrowi Mazowieckiej|B. Prusa 2|07-300|(29) 746 89 35|(29) 746 89 33|sekretariat@ostrowmaz.sr.gov.pl
+Sąd Rejonowy w Przasnyszu|Świerkowa 7|06-300|(29) 752 13 12|(29) 752 13 02|srprzasnysz@data.pl
+Sąd Rejonowy w Pułtusku|Rynek  37|06-100|(23) 692 99 70|(23) 692 99 18|biuro.podawcze@pultusk.sr.gov.pl
+Sąd Rejonowy w Wyszkowie|Kościuszki 50|07-200 |(29) 742 38 08|(29) 742 38 08 wew. 209|boi@wyszkow.sr.gov.pl
+Sąd Okręgowy w Łomży|Dworna 16|18-400|(86) 215 42 48, 215 42 43|(86) 216 67 53|boi@lomza.so.gov.pl
+Sąd Rejonowy w Łomży|Polowa 1|18-400|(86) 215 09 22|(86) 215 09 60|boi@lomza.sr.gov.pl
+Sąd Rejonowy w Grajewie|Kolejowa 1|19-200 |(86) 272 02 43|(86) 272 02 45|bpod@grajewo.sr.gov.pl
+Sąd Rejonowy w Zambrowie|Al. Wojska Polskiego 56|18-300|(86) 271 22 40|(86) 271 22 40|administracja@zambrow.sr.gov.pl
+Sąd Rejonowy w Wysokiem Mazowieckiem|Ludowa 44|18-200|(86) 477 02 30|(86) 477 02 30 w. 48|sr@wysmaz.sr.gov.pl
+Sąd Okręgowy w Olsztynie|Dąbrowszczaków 44A|10-543|(89) 521 61 84, 521 60 26   |(89) 521 60 14|
+Sąd Rejonowy w Bartoszycach|Warszawska 3|11-200|(89) 762 22 96|(89) 762 28 54|upo.bartoszyce@olsztyn.so.gov.pl 
+Sąd Rejonowy w Biskupcu|Sądowa 4 |11-300|(89) 715 22 18 |(89) 715 46 86|sekcja.administracyjna@biskupiec.sr.gov.pl 
+Sąd Rejonowy w Giżycku|Warszawskia 28|11-500|(87) 429 82 29|(87) 429 82 11|oddzial.administracyjny@gizycko.sr.gov.pl
+Sąd Rejonowy w Kętrzynie|Sikorskiego 66|11-400 |(89) 751 76 66|(89) 751 42 10|poczta@ketrzyn.sr.gov.pl
+Sąd Rejonowy w Lidzbarku Warmińskim|Bartoszycka 4a|11-100|(89) 767 83 00|(89) 767 83 01|sekcja.administracyjna@lidzbarkwarminski.sr.gov.pl
+Sąd Rejonowy w Mrągowie|Królewiecka 55|11-700|(89) 741 04 31|(89) 741 04 31 wew. 36|upo.mragowo@olsztyn.so.gov.pl
+Sąd Rejonowy w Nidzicy|Kościuszki 15 |13-100|(89) 521 59 52|(89) 521 59 31|biuro.podawcze@nidzica.sr.gov.pl
+Sąd Rejonowy w Olsztynie|Dąbrowszczaków 44|10-543|(89) 523 02 80, 523 02 83|(89) 523 02 41|boi.srolsztyn@olsztyn.sr.gov.pl 
+Sąd Rejonowy w Piszu|Warszawska 47|11-200|(87) 424 13 00|(87) 424 13 04|sekcja.administracyjna@pisz.sr.gov.pl
+Sąd Rejonowy w Szczytnie|Sienkiewicza 8|12-100|(89) 624 71 13, 624 71 14|(89) 624 71 09|sad.rejonowy@szczytno.sr.gov.pl
+Sąd Okręgowy w Suwałkach|Waryńskiego 45|16-400|(87) 563 13 30|(87) 563 13 03|so@suwalki.so.gov.pl
+Sąd Rejonowy w Augustowie|Młyńska 59 |16-300 |(87) 643 84 30|(87) 643 84 64 |sekretariat@augustow.sr.gov.pl 
+Sąd Rejonowy w Ełku|Małeckich 4|19-300|(87) 629 03 35|(87) 629 03 22|oddzial.administracyjny@elk.sr.gov.pl
+Sąd Rejonowy w Olecku|Osiedle Siejnik I 18|19-400|(87) 523 06 00|(87) 523 05 99|olecko@olecko.sr.gov.pl
+Sąd Rejonowy w Suwałkach|Waryńskiego 45|16-400|(87) 563 13 10|(87) 563 12 69|sr@suwalki.sr.gov.pl
+Sąd Apelacyjny w Gdańsku|Nowe Ogrody 28/29|80-803|(58) 323 85 41, 323 85 24|(58) 302 97 22|boi@gdansk.sa.gov.pl
+Sąd Okręgowy w Bydgoszczy|Wały Jagiellońskie 2|85-128|(52) 325 31 93|(52) 321 31 01|boi@bydgoszcz.so.gov.pl
+Sąd Rejonowy w Bydgoszczy|Wały Jagiellońskie 4|85-128|(52) 325 31 00|(52) 348 66 88|boi@bydgoszcz.sr.gov.pl
+Sąd Rejonowy w Inowrocławiu|Narutowicza 42|88-100|(52) 359 26 20|(52) 359 26 30|poi@inowroclaw.sr.gov.pl
+Sąd Rejonowy w Mogilnie|Sądowa 21|88-300|(52) 315 97 34|(52) 315 97 09|administracja@mogilno.sr.gov.pl
+Sąd Rejonowy w Nakle nad Notecią|Sądowa 3|89-100|(52) 386 78 00|(52) 386 78 21|sad@naklo.sr.gov.pl
+Sąd Rejonowy w Szubinie |Pl. Wolności 4 |89-200|(52) 391 01 30|(52) 384 80 68|sad@szubin.sr.gov.pl
+Sąd Rejonowy w Świeciu|Sądowa  12|86-100|(52) 333 28 00|(52) 333 28 12|sad@swiecie.sr.gov.pl
+Sąd Rejonowy w Tucholi|Świecka 28|89-500|(52) 336 04 00|(52) 336 04 09|sad@tuchola.sr.gov.pl
+Sąd Rejonowy w Żninie|Pl. Wolności 17|88-400|(52) 303 37 12|(52) 303 37 20|administracja@znin.sr.gov.pl
+Sąd Okręgowy w Elblągu|Pl. Konstytucji 1|82-300|(55) 611 24 04, 611 24 57|(55) 611 24 96|boi@elblag.so.gov.pl
+Sąd Rejonowy w Elblągu|Płk. Dąbka 8-12|82-300|(55) 611 22 30, 611 27 00|(55) 642 45 90|boi@elblag.sr.gov.pl 
+Sąd Rejonowy w Braniewie|Sądowa 1 |14-500|(55) 646 52 52|(55) 646 52 50|srbraniewo@braniewo.sr.gov.pl
+Sąd Rejonowy w Działdowie|Jagiełły 31|13-200|(23) 697 07 60|(23) 697 07 61|srdzialdowo@dzialdowo.sr.gov.pl
+Sąd Rejonowy w Iławie|Kopernika 4B|14-200|(89) 644 57 00|(89) 644 57 55|boi@ilawa.sr.gov.pl
+Sąd Rejonowy w Nowym Mieście Lubawskim|Grunwaldzka 28|13-300|(56) 472 61 20|(56) 472 61 40|sad.rejonowy@nowemiastolubawskie.sr.gov.pl
+Sąd Rejonowy w Ostródzie|Jana III Sobieskiego 12|14-100|(89) 642 55 00|(89) 642 55 35|boi@ostroda.sr.gov.pl
+Sąd Okręgowy w Gdańsku|Nowe Ogrody 30/34|80-803|(58) 321 31 99|(58) 321 31 04|sogdansk@gdansk.so.gov.pl
+Sąd Rejonowy Gdańsk-Południe w Gdańsku|3 Maja 9a|80-802|(58) 324 25 24, 324 25 48, 324 25 59|(58) 324 25 04|punktinformacyjny@gdansk-poludnie.sr.gov.pl
+Sąd Rejonowy Gdańsk-Północ w Gdańsku|Piekarnicza 10|80-126|(58) 321 37 00, 321 38 00, 321 38 51|(58) 321 38 53|informacja.srgdapn@gdansk-polnoc.sr.gov.pl
+Sąd Rejonowy w Gdyni|plac Konstytucji 5|81-354|(58) 765 61 04|(58) 661 21 55|administracja@gdynia.sr.gov.pl
+Sąd Rejonowy w Kartuzach|Kościuszki 26|83-300|(58) 694 94 09|(58) 694 94 03|boi@kartuzy.sr.gov.pl
+Sąd Rejonowy w Kościerzynie|Dworcowa  2 |83-400 |(58) 680 13 48|(58) 680 13 48|administracja@koscierzyna.sr.gov.pl
+Sąd Rejonowy w Kwidzynie|Pl. Plebiscytowy 1 |82-500|(55) 262 45 49|(55) 262 45 49|poi@kwidzyn.sr.gov.pl
+Sąd Rejonowy w Malborku|17 Marca 3|82-200|(55) 647 07 00|(55) 647 07 04|poi@malbork.sr.gov.pl
+Sąd Rejonowy w Sopocie|1 Maja 10|81-828|(58) 554 98 00, 554 98 01|(58) 554 98 06|boi@sopot.sr.gov.pl
+Sąd Rejonowy w Starogardzie Gdańskim|Kościuszki 30|83-200|(58) 777 46 20|(58) 777 46 58|boi@starogard-gd.sr.gov.pl
+Sąd Rejonowy w Tczewie|Kołłątaja 6|83-110|(58) 530 91 07|(58) 530 91 03|informacja@tczew.sr.gov.pl
+Sąd Rejonowy w Wejherowie|Sobieskiego 302|84-200|(58) 672 89 89|(58) 672 88 93|informacja@wejherowo.sr.gov.pl
+Sąd Okręgowy w Słupsku|Zamenhofa 7|76-200 |(59) 846 94 28,846 95 65, 846 95 64 |(59) 846 95 67|boi@slupsk.so.gov.pl
+Sąd Rejonowy w Słupsku|Sz. Szeregów 13|76-200|(59) 846 92 00|(59) 842 00 39|sad.rejonowy@slupsk.sr.gov.pl
+Sąd Rejonowy w Lęborku|Pl. Kopernika 4|84-300|(59) 863 68 36|(59) 863 68 35|poczta@lebork.sr.gov.pl
+Sąd Rejonowy w Chojnicach|Młyńska 30|89-600|(52) 395 27 93|(52) 395 28 00|boi@chojnice.sr.go.pl
+Sąd Rejonowy w Miastku|Armii Karjowej 30|77-200|(59) 858 71 00|(59) 858 71 14|administracja@miastko.sr.gov.pl
+Sąd Rejonowy w Bytowie|Zamkowa 1|77-100|(59) 822 81 99|(59) 822 35 56|administracja@bytow.sr.gov.pl
+Sąd Rejonowy w Człuchowie|Szczecińska 1|77-300|(59) 834 69 94, 834 69 93|(59) 834 69 80|boi@czluchow.sr.gov.pl
+Sąd Okręgowy w Toruniu|Piekary 51|87-100|(56) 610 55 51, 610 55 53|(56) 655 57 06|boi@torun.so.gov.pl
+Sąd Rejonowy w Chełmnie|Toruńska 3|86-200|(56) 677 02 00|(56) 677 02 25|poi@chelmno.sr.gov.pl
+Sąd Rejonowy w Golubiu Dobrzyniu|Kościelna 23/25|87-400|(56) 682 35 00|(56) 683 52 77 |sr@golubdobrzyn.sr.gov.pl
+Sąd Rejonowy w Wąbrzeźnie |Wolności 19|87-200|(56) 689 06 00|(56) 689 06 05|srw@wabrzezno.sr.gov.pl
+Sąd Rejonowy w Toruniu|Fosa Staromiejska12/14|87-100|(56) 610 57 95|(56) 610 57 90|boi@torun.sr.gov.pl
+Sąd Rejonowy w Brodnicy|Sądowa 5|87-300|(56) 494 17 08|(56) 494 17 58|poi@brodnica.sr.gov.pl
+Sąd Rejonowy w Grudziądzu|Sikorskiego 19/23|86-300|(56) 450 59 87|(56) 450 59 09|poi@grudziadz.sr.gov.pl
+Sąd Okręgowy we Włocławku|Wojska Polskiego 22|87-800|(54) 412 03 80|(54) 411 85 75|boi@wloclawek.so.gov.pl
+Sąd Rejonowy w Aleksandrowie Kujawskim|Narutowicza 16|87-700|(54) 282 24 24|(54) 282 53 69|mail@aleksandrowkuj.sr.gov.pl
+Sąd Rejonowy w Lipnie|Piłsudskiego 15/17|87-600|(54) 287 22 05|(54) 287 33 19|srlipno@lipno.sr.gov.pl
+Sąd Rejonowy w Radziejowie|Brzeska 20|88-200|(54) 285 36 21|(54) 285 36 23|b.podawcze@radziejow.sr.gov.pl
+Sąd Rejonowy w Rypinie|Warszawska 42|87-500 |(54) 280 24 58|(54) 280 29 57|srrypin@rypin.sr.gov.pl
+Sąd Rejonowy we Włocławku|Kilińskiego 20|87-800|(54) 422 26 82, 422 27 52|(54) 411 68 00|srwloclawek@wloclawek.sr.gov.pl
+Sąd Apelacyjny w Katowicach|Al. Korfantego 117/119|40-156|(32) 200 45 83|(32) 200 46 03|informacja@katowice.sa.gov.pl
+Sąd Okręgowy w Bielsku-Białej    |Cieszyńska 10 |43-300|(33) 499 04 80|(33) 499 04 50|informacja@bielsko-biala.so.gov.pl 
+Sąd Rejonowy w Bielsku-Białej|Mickiewicza 22|43-300|(33) 499 78 26|(33) 499 78 01|informacja@bielsko-biala.sr.gov.pl
+Sąd Rejonowy w Cieszynie|Garncarska 8|43-400|(33) 479 46 06, 479 47 06|(33) 479 46 01|punkt.informacyjny@cieszyn.sr.gov.pl
+Sąd Rejonowy w Żywcu|Kościuszki 39|34-300|(33) 475 12 18|(33) 475 12 84 |bpodawcze@zywiec.sr.gov.pl
+Sąd Okręgowy w Częstochowie|Dąbrowskiego 23/35|42-200|(34) 368 46 57|(34) 368 46 58|boi@czestochowa.so.gov.pl
+Sąd Rejonowy w Częstochowie|Dąbrowskiego 23/35|42-202|(34) 364 41 00|(34) 364 43 21|sad_rejonowy@czestochowa.sr.gov.pl
+Sąd Rejonowy w Lublińcu|Sądowa 3|42-700|(34) 351 51 00|(34) 351 51 33|oddzial.administracyjny@lubliniec.sr.gov.pl
+Sąd Rejonowy w Myszkowie|Kwiatkowskiego 2|42-300|(34) 315 98 00, 315 98 01|(34) 315 98 98 |boi@myszkow.sr.gov.pl
+Sąd Rejonowy w Zawierciu|Leśna 4|42-400|(32) 649 79 06|(32) 649 79 03|boi@zawiercie.sr.gov.pl
+Sąd Okręgowy w Gliwicach|Kościuszki 15|44-100|(32) 338 01 16|(32) 338 06 85|boi@gliwice.so.gov.pl
+Sąd Rejonowy w Gliwicach|Powstańców Warszawy 23|44-101|(32) 338 77 95|(32) 338 77 59|boi@gliwice.sr.gov.pl
+Sąd Rejonowy w Jastrzębiu-Zdroju|Stanisława Staszica 3|44-330|(32) 478 74 00|(32) 478 74 11|jastrzebie@jastrzebie.sr.gov.pl
+Sąd Rejonowy w Raciborzu|Nowa 29|47-400|(32) 459 46 22|(32) 459 46 12|administracja@raciborz.sr.gov.pl
+Sąd Rejonowy w Rudzie Śląskiej|Bukowa 5A  |41-700|(32) 438 11 05|(32) 438 11 04|boi@ruda-slaska.sr.gov.pl
+Sąd Rejonowy w Rybniku|Pl. Kopernika 2|44-200|(32) 439 31 07|(32) 439 31 09|biuro.podawcze@rybnik.sr.gov.pl
+Sąd Rejonowy w Tarnowskich Górach|Opolska 17|42-600|(32) 381 83 10|(32) 381 83 16|boi@tgory.sr.gov.pl
+Sąd Rejonowy w Wodzisławiu Śląskim|Sądowa 3|44-300|(32) 459 14 00|(32) 459 14 05|poi@wodzislaw.sr.gov.pl
+Sąd Rejonowy w Zabrzu|3 Maja 21|41-800|(32) 373 58 31|(32) 373 58 30|informacja@poczta.zabrze.sr.gov.pl
+Sąd Rejonowy w Żorach|Al. Jana Pawła II 15|44-240|(32) 475 96 69 |(32) 475 96 20|poi@zory.sr.gov.pl
+Sąd Okręgowy w Katowicach|Francuska 38|40-028|(32) 607 06 60|(32) 607 01 99|informacja@katowice.so.gov.pl
+Sąd Rejonowy w Będzinie|Sączewskiego 23 |42-500|(32) 368 81 88|(32) 368 81 88|administracja@bedzin.sr.gov.pl
+Sąd Rejonowy w Bytomiu |Piekarska  1|41-902|(32) 388 91 01|(32) 396 69 55|informacja@bytom.sr.gov.pl
+Sąd Rejonowy w Chorzowie|dr Józefa Rostka 2|41-500|(32) 349 94 14|(32) 349 94 15|boi@chorzow.sr.gov.pl
+Sąd Rejonowy w Dąbrowie Górniczej|Graniczna 23|41-300|(32) 295 94 00|(33) 295 94 83|sekretariat@dabrowag.sr.gov.pl
+Sąd Rejonowy w Jaworznie|Grunaldzka 28|43-600|(32) 758 62 00|(32) 758 61 89|boi@jaworzno.sr.gov.pl
+Sąd Rejonowy Katowice-Wschód w Katowicach|Lompy 14|40-040|(32) 604 74 91|(32) 604 74 92|poi@katowice-wschod.sr.gov.pl
+Sąd Rejonowy Katowice-Zachód w Katowicach |Pl. Wolności 10|40-078|(32) 604 77 00,604 77 04,604 77 13|(32) 604 77 13|administracja@katowice-zachod.sr.gov.pl
+Sąd Rejonowy w Mikołowie|Ks.Kard.St. Wyszyńskiego 12/14|43-190|(32) 784 61 02|(32) 784 61 04|administracja@mikolow.sr.gov.pl
+Sąd Rejonowy w Mysłowicach|Krakowska 2|41-400|(32) 317 41 29|(32) 317 41 53|poi@myslowice.sr.gov.pl
+Sąd Rejonowy w Pszczynie|bp. Bogedaina nr 14|43-200|(32) 449 41 00|(32) 449 41 09|informacja@pszczyna.sr.gov.pl
+Sąd Rejonowy w Siemianowicach Śląskich|Chorzowska 14|41-106|(32) 766 43 10   |(32) 766 43 11  |poi@siemianowice.sr.gov.pl
+Sąd Rejonowy w Sosnowcu|1 Maja 19|41-200|(32) 296 62 52|(32) 296 62 40|informacja@sosnowiec.sr.gov.pl
+Sąd Rejonowy w Tychach|Budowlanych 33|43-100|(32) 323 31 05, 323 31 06|(32) 219 28 06|informacja@tychy.sr.gov.pl
+Sąd Apelacyjny w Krakowie|Przy Rondzie 3|31-547|(12) 417 54 00|(12) 417 55 54|sa.krakow@krakow.sa.gov.pl
+Sąd Okręgowy w Kielcach|Seminaryjska 12a|25-372|(41) 340 23 00|(41) 340 23 63|boi@kielce.so.gov.pl
+Sąd Rejonowy w Busku-Zdroju|Kościuszki 5|28-100 |(41) 370 18 15, 370 18 16, 370 18 17|(41) 246 28 93|administracja@busko.sr.gov.pl
+Sąd Rejonowy w Jędrzejowie|11 Listopada 74|28-300|(41) 386 14 41|(41) 386 15 56|administracja@jedrzejow.sr.gov.pl
+Sąd Rejonowy w Kielcach|Warszawska 44 |25-312|(41) 349 57 85|(41) 344 29 35 |poi@kielce.sr.gov.pl 
+Sąd Rejonowy w Końskich|Iwo Odrowąża 5|26-200|(41) 372 27 02|(41) 372 27 02 wew. 50                               |boi@konskie.sr.gov.pl
+Sąd Rejonowy w Opatowie|Pl. Obrońców Pokoju 18|27-500 |(15) 868 27 99, 868 27 98, 868 27 88         |(15) 868 26 02|boi@opatow.sr.gov.pl     
+Sąd Rejonowy w Ostrowcu Świętokrzyskim|Kościuszki 1|27-400|(41) 246 20 94, 246 20 95, 246 20 96|(41) 266 45 66 wew. 207|poi@ostrowiec.sr.gov.pl
+Sąd Rejonowy w Pińczowie|3 Maja 12a                 |28-400|(41) 246 22 02|(41) 24-62-212|administracja@pinczow.sr.gov.pl
+Sąd Rejonowy w Sandomierzu|Kościuszki 2a|27-600|(15) 832 30 62, 832 30 63, 832 30 64|(15) 832 36 12|administracja@sandomierz.sr.gov.pl
+Sąd Rejonowy w Skarżysku-Kamiennej|Krasińskiego 11|26-110|(41) 246 24 43, 246 24 44|(41) 252 03 69|sad@skarzysko.sr.gov.pl
+Sąd Rejonowy w Starachowicach|Staszica 12 |27-200|(41) 274 63 29|(41) 274 63 29|administracja@starachowice.sr.gov.pl
+Sąd Rejonowy w Staszowie|Kościuszki 2|28-200 |(15) 864 82 93|(15) 864 82 52|boi@staszow.sr.gov.pl
+Sąd Rejonowy we Włoszczowie|Kusocińskiego 11|29-100|(41) 394 31 07|(41) 394 31 07 wew. 317|boi.wloszczowa@sr.gov.pl
+Sąd Okręgowy w Krakowie|Przy Rondzie 7|31-547|(12) 619 50 86, 619 57 70|(12) 619 59 92|prezes@krakow.so.gov.pl
+Sąd Rejonowy dla Krakowa-Krowodrzy w Krakowie|Przy Rondzie 7|31-547|(12) 619 53 10|(12) 619 50 30|sad@krakow-krowodrza.sr.gov.pl
+Sąd Rejonowy dla Krakowa-Nowej Huty w Krakowie|Przy Rondzie 7|31-547|(12) 619 50 86, 619 57 70|(12) 619 50 37|kontakt@krakow-nowahuta.sr.gov.pl
+Sąd Rejonowy dla Krakowa-Podgórza w Krakowie|Przy Rondzie 7|31-547|(12) 619 54 10|(12) 619 50 33|kontakt@krakow-podgorze.sr.gov.pl
+Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie|Przy Rondzie 7|31-547|(12) 619 50 40|(12) 619 50 40|oa_srodmiescie@krakow.so.gov.pl
+Sąd Rejonowy w Chrzanowie|Al. Henryka 23|32-500|(32) 649 40 68|(32) 649 40 91|poi@chrzanow.sr.gov.pl
+Sąd Rejonowy w Miechowie|Pl. Kościuszki 3a|32-200|(41) 382 50 68|(41) 382 50 68|boi_miechow@miechow.sr.gov.pl
+Sąd Rejonowy w Myślenicach|Piłsudskiego 7|32-400|(12) 373 51 54|(12) 272 06 15|informacja@myslenice.sr.gov.pl
+Sąd Rejonowy w Olkuszu|K. K. Wielkiego 45|32-300|(32) 626 11 55|(32) 626 11 68|poi@olkusz.sr.gov.pl
+Sąd Rejonowy w Oświęcimiu |Rynek Gł. 14|32-600|(33) 847 55 05|(33) 847 55 05|poi@oswiecim.sr.gov.pl
+Sąd Rejonowy w Suchej Beskidzkiej|Mickiewicza 11|34-200|(12) 619 57 70, 619 50 86|(33) 877 05 48|poi@suchab.sr.gov.pl
+Sąd Rejonowy w Wadowicach |Żwirki i Wigury 9|34-100|(33) 875 70 01|(33) 823 33 45|poi@wadowice.sr.gov.pl
+Sąd Rejonowy w Wieliczce |Janińska 25|32-020|(12) 347 30 10|(12) 347 30 16|informacja@wieliczka.sr.gov.pl
+Sąd Okręgowy w Nowym Sączu|Pijarska 3|33-300|(18) 448 21 82|(18) 448 21 92|boi@nowysacz.so.gov.pl
+Sąd Rejonowy w Gorlicach|Biecka 5|38-300|(18) 355 11 22|(18) 351 70 50|boi@gorlice.sr.gov.pl
+Sąd Rejonowy w Nowym Sączu|Pijarska  3|33-300|(18) 440 06 70|(18) 443 72 10|sekretariatprezesa@nowysacz.sr.gov.pl
+Sąd Rejonowy w Limanowej|Józefa Marka 19|34-600|(18) 330 05 80|(18) 330 05 04|boi@limanowa.sr.gov.pl
+Sąd Rejonowy w Nowym Targu|Ludźmierska 29|34-400|(18) 261 26 86|(18) 266 30 27|boi@nowytarg.sr.gov.pl
+Sąd Rejonowy w Zakopanem |Gimnazjalna 13|34-500|(18) 202 46 85|(18) 202 46 02|boi@zakopane.sr.gov.pl
+Sąd Okręgowy w Tarnowie|Dąbrowskiego 27|33-100|(14) 688 74 44|(14) 668 74 17|informacja@tarnow.so.gov.pl
+Sąd Rejonowy w Brzesku|Kościuszki 20|32-800|(14) 664 61 01|(14) 664 61 02|boi@brzesko.sr.gov.pl
+Sąd Rejonowy w Dąbrowie Tarnowskiej|J. Bojki 2|33-200|(14) 644 41 09|(14) 644 42 22|informacja@dabrowatar.sr.gov.pl
+Sąd Rejonowy w Bochni|Kościuszki 4 |32-700 |(14) 615 21 00|(14) 612 42 66|boi@bochnia.sr.gov.pl
+Sąd Rejonowy w Tarnowie|Dąbrowskiego 27|33-100|(14) 688 74 47|(14) 688 74 66|informacja@tarnow.so.gov.pl
+Sąd Apelacyjny w Lublinie|Obrońców Pokoju 1|20-950|(81) 452 33 70|(81) 452 34 55|boi@lublin.sa.gov.pl
+Sąd Okręgowy w Lublinie|Krakowskie Przedmieście 43|20-076|(81) 460 12 03, 460 12 98,460 12 06|(81) 460 10 16|boi@lublin.so.gov.pl
+Sąd Rejonowy w Białej Podlaskiej|Brzeska 20-22|21-500|(83) 311 10 95|(83) 343 63 14|poi@bialapodlaska.sr.gov.pl
+Sąd Rejonowy w Chełmie|Al. I Armii Wojska Polskiego 16|22-100|(82) 565 37 45|(82) 565 37 47|boi@chelm.sr.gov.pl
+Sąd Rejonowy w Kraśniku|Lubelska 81|23-200|(81) 825 20 01|(81) 825 23 78|krasnik@krasnik.sr.gov.pl
+Sąd Rejonowy w Lubartowie|Lubelska 57|21-100|(81) 852 68 00|(81) 855 24 47|adm@lubartow.sr.gov.pl
+Sąd Rejonowy Lublin-Wschód w Lublinie z siedzibą w Świdniku|Kardynała Stefana Wyszyńskiego 18|21-040|(81) 464 89 38, 464 89 37, 464 89 35|(81) 464 88 33|boi@lublin-wschod.sr.gov.pl
+Sąd Rejonowy Lublin-Zachód w Lublinie|Krakowskie Przedmieście 76|20-950|(81) 478 16 00, 478 16 01|(81) 478 16 03|sek@lublin-zachod.sr.gov.pl 
+Sąd Rejonowy w Łukowie|Staropijarska 1|21-400|(25) 798 23 51|(25) 798 23 51 wew. 213|biuropodawcze@lukow.sr.gov.pl
+Sąd Rejonowy w Opolu Lubelskim|Stary Rynek 46 |24-300 |(81) 827 28 25|(81) 827 28 25|administracyjny@opolelubelskie.sr.gov.pl
+Sąd Rejonowy w Puławach|Lubelska 7|24-100|(81) 886 44 77|(81) 888 93 06|biuro@pulawy.sr.gov.pl
+Sąd Rejonowy w Radzyniu Podlaskim|Stefana Kardynała Wyszyńskiego 5|21-300|(83) 313 30 01|(83) 313 30 05|boi@radzyn.sr.gov.pl
+Sąd Rejonowy w Rykach|Kościuszki 15|08-500|(81) 865 60 51|(81) 865 60 51 wew. 307|bpod@ryki.sr.gov.pl
+Sąd Rejonowy we Włodawie|Sejmowa7  |22-200|(82) 572 11 15|(82) 572 11 15|sekretariat@wlodawa.sr.gov.pl
+Sąd Okręgowy w Radomiu|Piłsudskiego 10|26-600|(48) 368 02 66, 368 02 67, 368 02 68|(48) 368 02 67|boi@radom.so.gov.pl
+Sąd Rejonowy w Grójcu|Sportowa 14|05-600|(48) 664 83 00, 664 83 01, 664 83 02|(48) 664 84 01|poi@grojec.sr.gov.pl
+Sąd Rejonowy w Kozienicach|Konstytucji 3 Maja 22|26-900|(48) 614 29 13|(48) 614 29 88|biuro@kozienice.sr.gov.pl
+Sąd Rejonowy w Lipsku|Partyzantów 1|27-300|(48) 378 44 60|(48) 366 16 39|podawcze@lipsko.sr.gov.pl
+Sąd Rejonowy w Przysusze|Al. Jana Pawła II 11|26-400|(48) 675 03 71|(48) 675 23 59|administracja@przysucha.sr.gov.pl
+Sąd Rejonowy w Radomiu|Struga 63|26-600|(48) 368 04 42, 368 04 44, 368 04 45|(48) 368 04 44|poi@radom.sr.gov.pl
+Sąd Rejonowy w Szydłowcu|Pl. Marii Konopnickiej 7|26-500|(48) 617 87 00|(48) 617 16 91|administracja@szydlowiec.sr.gov.pl
+Sąd Rejonowy w Zwoleniu|Moniuszki 6|26-700|(48) 676 30 51, 676 31 32, 676 46 15|(48) 676 30 51|sr@zwolen.sr.gov.pl
+Sąd Okręgowy w Siedlcach|Sądowa 2|08-100|(25) 640 78 00|(25) 632 68 85|poczta@siedlce.so.gov.pl
+Sąd Rejonowy w Mińsku Mazowieckim|Okrzei 14|05-309|(25) 756 49 10|(25) 756 49 40|boi@minsk-mazowiecki.sr.gov.pl
+Sąd Rejonowy w Węgrowie|Przemysłowa 20|07-100|(25) 792 22 31|(25) 792 22 31 wew. 360|poczta@wegrow.sr.gov.pl
+Sąd Rejonowy w Garwolinie|Al. Legionów 46|08-400|(25) 682 30 41|(25) 684 30 13|podawcze@garwolin.sr.gov.pl
+Sąd Rejonowy w Sokołowie Podlaskim|ks Bosco 3|08-300|(25) 787 23 22|(25) 787 23 94 wew. 134|biuro.podawcze@sokolow-podlaski.sr.gov.pl
+Sąd Rejonowy w Siedlcach|Bpa. I. Świrskiego 17|08-110|(25) 632 23 27|(25) 632 23 27|srsiedlce@siedlce.sr.gov.pl
+Sąd Okręgowy w Zamościu|Akademicka 1|22-400|(84) 638 78 21|(84) 638 78 21|biuro@zamosc.so.gov.pl
+Sąd Rejonowy w Biłgoraju|Kościuszki  29|23-400|(84) 685 09 01, 685 09 02 |(84) 685 08 08|adm@bilgoraj.sr.gov.pl
+Sąd Rejonowy w Hrubieszowie|Dobrzańskiego "Hubala" 7|22-500|(84) 696 40 42|(84) 696 40 42|administracja@hrubieszow.sr.gov.pl
+Sąd Rejonowy w Janowie Lubelskim |Zamoyskiego 94|23-300|(15) 872 00 50, 872 04 49|(15) 872 04 06|administracja@janowlubelski.sr.gov.pl
+Sąd Rejonowy w Krasnymstawie|Poniatowskiego 31|22-300|(82) 576 28 01|(82) 576 33 05|poczta@krasnystaw.sr.gov.pl
+Sąd Rejonowy w Tomaszowie Lubelskim|Lwowska 55|22-600|(84) 665 74 31|(84) 665 74 90|administracja@tomaszowlub.sr.gov.pl
+Sąd Rejonowy w Zamosciu|Akademicka 1|22-400|(84) 638 29 01|(84) 639 29 77|biuro@zamosc.sr.gov.pl
+Sąd Apelacyjny w Łodzi|Narutowicza 64|90-136|(42) 685 06 96|(42) 209 11 72|administracja@lodz.sa.gov.pl
+Sąd Okręgowy w Kaliszu|Al. Wolności 13|62-800|(62) 765 78 11|(62) 594 45 31|biuro_obslugi@kalisz.so.gov.pl
+Sąd Rejonowy w Kaliszu|Al. Wolności 13|62-800|(62) 765 79 26|(62) 597 72 81|boi@kalisz.sr.gov.pl
+Sąd Rejonowy w Ostrowie Wielkopolskim|Sądowa 1|63-400|(62) 592 61 79|(62) 592 83 60|poi@ostrow.sr.gov.pl
+Sąd Rejonowy w Jarocinie|Al. Niepodległości 15|63-200|(62) 505 29 60|(62) 594 45 60|administracja@jarocin.sr.gov.pl
+Sąd Rejonowy w Pleszewie|Malińska 21|63-300|(62) 742 06 98|(62) 594 45 50|administracja@pleszew.sr.gov.pl
+Sąd Rejonowy w Kępnie|Al. Marcinkowskiego 10|63-600|(62) 782 72 84|(62) 594 45 82|boi@kepno.sr.gov.pl
+Sąd Rejonowy w Ostrzeszowie|Zamkowa 9 A|63-500|(62) 732 27 20|(62) 594 45 90|bpodawcze@ostrzeszow.sr.gov.pl
+Sąd Rejonowy w Krotoszynie|Sienkiewicza 11|63-700|(62) 725 11 00|(62) 594 45 72|administracja@krotoszyn.sr.gov.pl
+Sąd Okręgowy w Łodzi|Pl. Dąbrowskiego 5|90-921|(42) 677 89 00|(42) 685 05 08|boi@lodz.so.gov.pl
+Sąd Rejonowy w Kutnie|Spokojna 2|99-300|(24) 251 13 50|(24) 387 37 16|boi@kutno.sr.gov.pl
+Sąd Rejonowy w Łowiczu|Kaliska 1/3|99-400|(46) 830 43 10|(46) 811 27 90|boi@lowicz.sr.gov.pl
+Sąd Rejonowy w Łęczycy|Konopnickiej 16|99-100|(24) 721 12 82|(24) 721 12 68|administracja@leczyca.sr.gov.pl
+Sąd Rejonowy w Pabianicach|Partyzancka 105/127|95-200|(42) 225 51 83, 225 51 26|(42) 209 11 44|boi@pabianice.sr.gov.pl
+Sąd Rejonowy w Skierniewicach|Reymonta 12/14|96-100|(46) 834 49 40|(46) 811 22 95|boi@skierniewice.sr.gov.pl
+Sąd Rejonowy w Zgierzu|Sokołowska 6|95-100|(42) 715 76 06|(42) 209 11 50|boi@zgierz.sr.gov.pl
+Sąd Rejonowy dla Łodzi-Śródmieścia w Łodzi|Al. Kościuszki 107/109|90-928|(42) 664 09 00|(42) 664 07 23|boi@lodz.sr.gov.pl
+Sąd Rejonowy w Brzezinach|Waryńskiego 32|95-060|(46) 875 51 41, 875 21 51|(46) 811 27 80|boi@brzeziny.sr.gov.pl
+Sąd Rejonowy dla Łodzi-Widzewa w Łodzi|Al. Piłsudskiego 143|92-332|(42) 677 47 26|(42) 288 42 30|prezes@widzew.sr.gov.pl
+Sąd Rejonowy w Rawie Mazowieckiej |Kościuszki 17|96-200|(46) 813 19 15|(46) 811 22 96|boi@rawa.sr.gov.pl
+Sąd Okręgowy w Piotrkowie Trybunalskim|Słowackiego 5|97-300|(44) 649 41 80|(44) 647 89 19|boi@piotrkow-tryb.so.gov.pl
+Sąd Rejonowy w Bełchatowie|Okrzei 4|97-400|(44) 635 76 06 |(44) 741 57 09|biuro.podawcze@belchatow.sr.gov.pl
+Sąd Rejonowy w Opocznie|Biernackiego 20|26-300|(44) 755 71 07 |(44) 741 57 00|informacja@opoczno.sr.gov.pl
+Sąd Rejonowy w Piotrkowie Trybunalskim |Słowackiego 5|97-300|(44) 649 41 36|(44) 649 64 35|biuro.podawcze@piotrkow-tryb.sr.gov.pl
+Sąd Rejonowy w Radomsku |Tysiaclecia 3|97-500|(44) 685 81 31|(44) 685 81 77|administracja@radomsko.sr.gov.pl
+Sąd Rejonowy w Tomaszowie Mazowieckim|Prez. I. Mościckiego 9|97-200|(44) 725 75 08, 725 75 09|(44) 725 75 13|boi@tomaszow-maz.sr.gov.pl
+Sąd Okręgowy w Płocku|Pl. Narutowicza 4|09-404|(24) 269 72 13|(24) 262 25 26|sekretariat.prezesa@plock.so.gov.pl
+Sąd Rejonowy w Płocku|Pl. Narutowicza 6|09-404|(24) 269 74 00|(24) 262 63 38|biuropodawcze@plock.sr.gov.pl
+Sąd Rejonowy w Ciechanowie |Mikołajczyka 5|06-400|(23) 674 17 70|(23) 674 17 17|podawcze@ciechanow.sr.gov.pl
+Sąd Rejonowy w Gostyninie|3-go Maja 43|09-500|(24) 236 08 56|(24) 236 08 30|boi@gostynin.sr.gov.plk
+Sąd Rejonowy w Mławie |Reymonta 3|06-500|(23) 654 89 06|(23) 654 89 06 |boi@mlawa.sr.gov.pl
+Sąd Rejonowy w Sochaczewie|1 Maja 7|96-500|(46) 862 32 64|(46) 862 22 50|biuro.podawcze@sochaczew.sr.gov.pl
+Sąd Rejonowy w Płońsku|Henryka Sienkiewicz 9a|09-100|(23) 661 37 10|(23) 661 37 28|boi@plonsk.sr.gov.pl
+Sąd Rejonowy w Sierpcu|Wiosny Ludów 1|09-200|(24) 275 22 93|(24) 275 22 93 wew. 13|administracja@sierpc.sr.gov.pl
+Sąd Rejonowy w Żyrardowie|Al. Partyzantów 3|96-300|(46) 854 31 41|(46) 854 31 42 |poi@zyrardow.sr.gov.pl 
+Sąd Okręgowy w Sieradzu|Al. Zwycięstwa 1|98-200|(43) 826 66 09|(43) 656 89 75|boi@sieradz.so.gov.pl
+Sąd Rejonowy w Sieradzu |Al. Zwycięstwa 1|98-200|(43) 826 67 09|(43) 656 96 22|boi@sieradz.sr.gov.pl
+Sąd Rejonowy w Łasku|Kolejowa 12|98-100|(43) 676 85 00|(43) 656 89 81|administracja@lask.sr.gov.pl
+Sąd Rejonowy w Wieluniu|Pl. Jagielloński 1|98-300|(43) 842 01 03|(43) 656 89 70|poi@wielun.sr.gov.pl
+Sąd Rejonowy w Zduńskiej Woli|Żeromskiego 19|98-220|(43) 824 18 18|(43) 656 89 79|poi@zdwola.sr.gov.pl
+Sąd Apelacyjny w Poznaniu|Trójpole 21|61-693|(61) 827 45 63|(61) 827 45 62|informacja@poznan.sa.gov.pl
+Sąd Okręgowy w Koninie|Energetyka  5|62-510|(63) 242 30 22|(63) 242 30 22 wew. 301|poi@konin.so.gov.pl
+Sąd Rejonowy w Koninie|Fryderyka Chopina 28|62-510|(63) 240 47 46|(63) 270 88 55|boi@konin.sr.gov.pl
+Sąd Rejonowy w Kole|Włocławska 4|62-600|(63) 272 15 01|(63) 272 08 52|bp@kolo.sr.gov.pl
+Sąd Rejonowy w Słupcy|Armii Krajowej 2|62-400|(63) 275 21 91|(63) 275 21 91 wew. 68|biuropodawcze@slupca.sr.gov.pl
+Sąd Rejonowy w Turku|Legionów Polskich 4|62-700|(63) 278 57 60|(63) 289 15 82|bpodawcze@turek.sr.gov.pl
+Sąd Okręgowy w Poznaniu|Hejmowskiego 2|61-736|(61) 628 31 00 |(61) 628 30 99|informacja@poznan.so.gov.pl
+Sąd Rejonowy w Chodzieży|Krasińskiego 10|64-800|(67) 356 77 00|(67) 356 77 04|admnistracja@chodziez.sr.gov.pl
+Sąd Rejonowy w Gnieźnie |Franciszkańska 9/10|62-200 |(61) 423 93 60, 423 93 61|(61) 426 10 34|boi@gniezno.sr.gov.pl
+Sąd Rejonowy w Gostyniu |Sądowa 1|63-800|(65) 521 44 08, 521 44 09|(65) 572 71 81|biuro_podawcze@gostyn.sr.gov.pl
+Sąd Rejonowy w Grodzisku Wielkopolskim|Żwirki i Wigury nr 3|62-065|(61) 628 48 09|(61) 444 49 31|poi@grodziskwlkp.sr.gov.pl
+Sąd Rejonowy w Kościanie|Pl. Niezłomnych 2|64-000|(65) 521 45 46|(65) 521 45 45|biuro.podawcze@koscian.sr.gov.pl
+Sąd Rejonowy w Lesznie|Dąbrowskiego 2|64-100|(65) 529 54 03|(65) 525 94 13|boi@leszno.sr.gov.pl
+Sąd Rejonowy w Nowym Tomyślu|Pl. Niepodległości 31|64-300|(61) 628 49 60|(61) 628 49 90|administracja@nowytomysl.sr.gov.pl
+Sąd Rejonowy w Obornikach|Piłsudskiego 47|64-600 |(61) 628 48 77|(61) 628 48 78|adm@oborniki.sr.gov.pl
+Sąd Rejonowy w Pile|Al. Powstańców Wlkp.  79|64-920|(67) 352 29 28|(67) 352 29 08|info@pila.sr.gov.pl
+Sąd Rejonowy Poznań-Grunwald i Jeżyce w Poznaniu|Kamiennogórska 26|60-179|(61) 658 50 70|(61) 628 97 02|prezes@poznan-grunwald.sr.gov.pl
+Sąd Rejonowy Poznań-Nowe Miasto i Wilda w Poznaniu|Al. Marcinkowskiego 32|61-745|(61) 640 90 00|(61) 647 36 01|boi@poznan-nowemiasto.sr.gov.pl 
+Sąd Rejonowy Poznań-Stare Miasto w Poznaniu|Młyńska 1a|61-729|(61) 666 08 50|(61) 468 25 12|informacja@poznan-staremiasto.sr.gov.pl
+Sąd Rejonowy w Rawiczu|Ignacego Buszy nr 1|63-900|(65) 521 44 51|(65) 546 10 97|biuro.podawcze@rawicz.sr. gov.pl
+Sąd Rejonowy w Szamotułach|Al. 1 Maja 5A|64-500|(61) 292 19 13|(61) 292 00 02|poi@szamotuly.sr.gov.pl
+Sąd Rejonowy w Śremie|Franciszkańska 4|63-100|(61) 282 14 65|(61) 282 14 69|administracja@srem.sr.gov.pl
+Sąd Rejonowy w Środzie Wielkopolskiej|Stary Rynek 6|63-000|(61) 629 49 10|(61) 628 49 48|administracja@srodawlkp.sr.gov.pl
+Sąd Rejonowy w Trzciance|Staszica 1|64-980|(67) 216 20 02|(67) 216 20 02 wew. 65|biuropodawcze@trzcianka.sr.gov.pl
+Sąd Rejonowy w Wągrowcu |Kościuszki 18 |62-100|(67) 268 18 01|(67) 268 18 08 |poi@wagrowiec.sr.gov.pl 
+Sąd Rejonowy w Wolsztynie|Mickiewicza 2|64-200|(68) 420 23 05|(68) 347 36 08|administracja@wolsztyn.sr.gov.pl
+Sąd Rejonowy we Wrześni|Jana Pawła II 10|62-300|(61) 436 90 02|(61) 436 90 09|administracja@wrzesnia.sr.gov.pl
+Sąd Rejonowy w Złotowie |Konopnickiej 15|77-400|(67) 264 28 00|(67) 264 28 95|biuropodawcze@zlotow.sr.gov.pl
+Sąd Okręgowy w Zielonej Górze|Pl. Słowiański 1|65-069|(68) 322 01 52|(68) 322 01 52|boi@zielona-gora.so.gov.pl 
+Sąd Rejonowy w Krośnie Odrzańskim|Piastów 10 L|66-600|(68) 383 99 10, 383 99 16|(68) 383 04 55|biuro.podawcze@krosno-odrz.sr.gov.pl
+Sąd Rejonowy w Nowej Soli|Piłsudskiego 24 |67-100 |(68) 356 97 00|(68) 356 97 02|sekretariat@nowa-sol.sr.gov.pl
+Sąd Rejonowy w Świebodzinie|Park Chopina 3|66-200|(68) 381 91 21|(68) 381 94 59|administracja@swiebodzin.sr.gov.pl
+Sąd Rejonowy we Wschowie|Plac Kosynierów 1C|67-400 |(65) 540 15 01|(65) 540 84 14|podawcze@wschowa.sr.gov.pl
+Sąd Rejonowy w Zielonej Górze|Pl. Słowiański 2|65-069|(68) 322 03 10, 322 03 78   |(68) 322 03 17|informacja@zielona-gora.sr.gov.pl
+Sąd Rejonowy w Żaganiu|Szprotawska 3|68-100|(68) 478 49 34|(68) 478 49 34|biuro.podawcze@zagan.sr.gov.pl
+Sąd Rejonowy w Żarach|Podwale 2|68-200|(68) 363 53 00|(68) 419 83 21|srzary@zary.sr.gov.pl
+Sąd Apelacyjny w Rzeszowie |Al. Piłsudskiego 28|35-001|(17) 858 02 63|(17) 858 02 05|boi@rzeszow.sa.gov.pl 
+Sąd Okręgowy w Przemyślu|Konarskiego 6|37-700|(16) 676 13 01, 676 13 02|(16) 676 13 53|punkt@przemysl.so.gov.pl
+Sąd Rejonowy w Jarosławiu|Jana Pawła II 11|37-500|(16) 621 40 24|(16) 621 23 83|sad@jaroslaw.sr.gov.pl
+Sąd Rejonowy w Przeworsku|Lwowska 9|37-200|(16) 649 08 10|(16) 649 08 16|bp.przeworsk@przeworsk.sr.gov.pl
+Sąd Rejonowy w Lubaczowie|Mickiewicza 24|37-600|(16) 632 50 64|(16) 632 50 64|sad@lubaczow.sr.gov.pl
+Sąd Rejonowy w Przemyślu|Mickiewicza 14|37-700|(16) 679 45 33|(16) 678 36 97|podawcze@przemysl.sr.gov.pl
+Sąd Okręgowy w Krośnie|Sienkiewicza 12|38-400|(13) 437 36 38|(13) 432 05 70|poi@krosno.so.gov.pl
+Sąd Rejonowy w Brzozowie|3-go Maja 2 a|36-200|(13) 434 12 67|(13) 434 09 19|administracja@brzozow.sr.gov.pl
+Sąd Rejonowy w Jaśle|Armii Krajowej 3|38-200|(13) 446 20 80|(13) 446 70 62|administracja@jaslo.sr.gov.pl
+Sąd Rejonowy w Krośnie|Sienkiewicza  12|38-400|(13) 437 56 00|(13) 432 13 19|adm@krosno.sr.gov.pl 
+Sąd Rejonowy w Lesku|Pl. Konstytucji 3 Maja 9|38-600|(13) 468 98 00|(13) 468 98 03|administracja@lesko.sr.gov.pl
+Sąd Rejonowy w Sanoku|Kościuszki 5|38-500|(13) 465 67 87|(13) 465 67 22|poi@sanok.sr.gov.pl
+Sąd Okręgowy w Rzeszowie|Pl. Śreniawitów 3|35-959|(17) 875 62 07|(17) 862 72 65|boi1@rzeszow.so.gov.pl
+Sąd Rejonowy w Ropczycach|Słowackiego 7|39-100|(17) 222 03 00|(17) 222 03 59|sekretariat@ropczyce.sr.gov.pl
+Sąd Rejonowy w Leżajsku|Mickiewicza 47 |37-300|(17) 240 53 00|(17) 240 53 13|sekretariat@lezajsk.sr.gov.pl
+Sąd Rejonowy w Łańcucie|Grunwaldzka 10 |37-100|(17) 224 23 00, 224 23 01|(17) 224 23 55|sekretariat@lancut.sr.gov.pl
+Sąd Rejonowy w Dębicy|Słoneczna 3|39-200|(14) 680 76 70|(14) 680 76 27|boi@debica.sr.gov.pl
+Sąd Rejonowy w Rzeszowie|gen. J. Kustronia 4|35-303|(17) 715 24 00|(17) 715 24 83|boi@rzeszow.sr.gov.pl
+Sąd Rejonowy w Strzyżowie|3 Maja 14|38-100|(17) 272 81 00|(17) 276 11 70|sekretariat@strzyzow.sr.gov.pl
+Sąd Okręgowy w Tarnobrzegu|Sienkiewicza 27|39-400|(15) 688 25 17|(15) 688 26 78|boi@tarnobrzeg.so.gov.pl
+Sąd Rejonowy w Nisku|Pl. Wolności 14|37-400|(15) 841 20 48|(15) 841 28 45|boi@nisko.sr.gov.pl
+Sąd Rejonowy w Mielcu|Kościuszki 15|39-300|(17) 582 04 01|(17) 582 04 30|administracja@mielec.sr.gov.pl 
+Sąd Rejonowy w Stalowej Woli|Ks. J. Popiełuszki 16|37-450|(15) 643 45 50, 643 45 51|(15) 643 46 76|boi@stalowawola.sr.gov.pl
+Sąd Rejonowy w Tarnobrzegu|Sienkiewicza 27|39-400|(15) 688 25 14, 688 25 15, 688 25 16|(15) 688 27 12|sekretariat@tarnobrzeg.sr.gov.pl
+Sąd Rejonowy w Kolbuszowej|Tyszkiewiczów 4|36-100|(17) 227 72 00, 227 72 17|(17) 227-72-02|boi@kolbuszowa.sr.gov.pl
+Sąd Apelacyjny w Szczecinie |Mickiewicza 163 |71-165|(91) 484 94 87|(91) 484 94 86|sekretariat@szczecin.sa.gov.pl
+Sąd Okręgowy w Szczecinie|Kaszubska 42|70-952|(91) 448 00 02|(91) 483 84 33|boi@szczecin.so.gov.pl
+Sąd Rejonowy w Gryficach|Wysoka Brama 2|72-300|(91) 386 68 01|(91) 386 68 09|mbujak@gryfice.sr.gov.pl
+Sąd Rejonowy Szczecin-Prawobrzeże i Zachód w Szczecinie|Pl. Żołnierza Polskiego 16|70-551|(91) 460 35 33|(91) 460 35 33|boi@szczecin-pz.sr.gov.pl
+Sąd Rejonowy Szczecin-Centrum w Szczecinie|Kaszubska 42|70-227|(91) 485 55 42|(91) 485 55 20|boi@szczecin-centrum.sr.gov.pl
+Sąd Rejonowy w Świnoujściu|Paderewskiego 6|72-600|(91) 326 28 70|(91) 327 98 57|boi@swinoujscie.sr.gov.pl
+Sąd Rejonowy w Stargardzie|Wojska Polskiego 17-19|73-110|(91) 578 74 31|(91) 578 74 78|sekretariat@stargard.sr.gov.pl
+Sąd Rejonowy w Myśliborzu|Niedziałkowskiego 6|74-300|(95) 747 34 46|(95) 747 94 75|sr.mysliborz@mysliborz.sr.gov.pl
+Sąd Rejonowy w Goleniowie|Konstytucji 3-go Maja 45 |72-100|(91) 466 74 46|(91) 466 74 47|boi@goleniow.sr.gov.pl
+Sąd Rejonowy w Gryfinie|Grunwaldzka 2|74-100|(91) 420 03 07|(91) 420 03 03|administracja@gryfino.sr.gov.pl
+Sąd Rejonowy w Łobzie|Niepodległości 15|73-150|(91) 397 06 31|(91) 397 06 32|hbobko@lobez.sr.gov.pl
+Sąd Rejonowy w Kamieniu Pomorskim|Kościuszki 13|72-400|(91) 382 57 80|(91) 382 57 20|sekretariat@kamien.sr.gov.pl
+Sąd Rejonowy w Choszcznie|Wolności 14|73-200|(95) 765 70 69|(95) 765 70 69 wew.13|sekretariat@choszczno.sr.gov.pl
+Sąd Okręgowy w Koszalinie|Waryńskiego 7|75-541|(94) 342 88 71|(94) 342 88 70|boi@koszalin.so.gov.pl
+Sąd Rejonowy w Koszalinie|Andersa 34|75-626|(94) 317 02 21, 342 86 28|(94) 317 02 62|informacja@koszalin.sr.gov.pl
+Sąd Rejonowy w Kołobrzegu|Katedralna 13|78-100|(34) 957 51 42|(94) 352 26 20|poi@kolobrzeg.sr.gov.pl
+Sąd Rejonowy w Wałczu|Sądowa 2|78-600|(67) 250 19 46|(67) 250 19 52|boi@walcz.sr.gov.pl
+Sąd Rejonowy w Białogardzie|Lipowa 1 |78-200|(94) 312 01 10|(94) 312 01 80|o.administracyjny@bialogard.sr.gov.pl
+Sąd Rejonowy w Drawsku Pomorskim|Jasna 3|78-500|(94) 363 64 86, 363 64 60|(94) 363 64 61|poi@drawsko-pom.sr.gov.pl
+Sąd Rejonowy w Szczecinku|Bohaterów Warszawy 42|78-400|(94) 373 08 00|(94) 373 08 05|boi@szczecinek.sr.gov.pl
+Sąd Rejonowy w Sławnie|I Pułku Ułanów 20|76-100 |(59) 810 67 46|(59) 810 67 46|biuropodawcze@slawno.sr.gov.pl
+Sąd Okręgowy w Gorzowie Wielkopolskim|Mieszka I 33|66-400|(95) 725 67 00|(95) 725 67 02|sekretariat@gorzow-wlkp.so.gov.pl
+Sąd Rejonowy w Gorzowie Wielkopolskim|Chopina 52 blok 10|66-400|(95) 725 65 84|(95) 725 65 82|boi@gorzow-wlkp.sr.gov.pl
+Sąd Rejonowy w Słubicach|Bohaterów Warszawy 3B|69-100|(95) 750 70 03|(95) 750 01 35|sekretariat@slubice.sr.gov.pl
+Sąd Rejonowy w Strzelcach Krajeńskich|Rynek 2-3|66-500|(95) 763 09 30|(95) 715 16 06|informacja@strzelce-kraj.sr.gov.pl
+Sąd Rejonowy w Sulęcinie|Kościuszki 30|69-200|(95) 755 48 24, 755 48 25, 755 48 26|(95) 755 07 60|boi@sulecin.sr.gov.pl
+Sąd Rejonowy w Międzyrzeczu|Wojska Polskiego 1|66-300|(95) 742 40 09|(95) 742 40 16|info@miedzyrzecz.sr.gov.pl
+Sąd Apelacyjny w Warszawie|Pl.Krasińskich 2/4/6|00-207|(22) 530 88 88|(22) 530 90 57|boi@waw.sa.gov.pl
+Sąd Okręgowy w Warszawie|Al. Solidarności 127|00-898|(22) 440 80 00|(22) 440 10 09|boi@warszawa.so.gov.pl
+Sąd Rejonowy dla m.st. Warszawy w Warszawie|Marszałkowska 82|00-517|(22) 553 97 80|(22) 553 97 83|srmstwar@warszawa.so.gov.pl
+Sąd Rejonowy dla Warszawy-Śródmieścia w Warszawie|Marszałkowska 82|00-517|(22) 553 97 06|(22) 553 96 84|poi@warszawa-srodmiescie.sr.gov.pl
+Sąd Rejonowy dla Warszawy-Żoliborza w Warszawie|Kocjana 3|01-473|(22) 328 60 30, 328 60 31, 328 60 32|(22) 328 62 29|boi@srzoliborz.pl
+Sąd Rejonowy dla Warszawy-Mokotowa w Warszawie|Ogrodowa 51a|00-873|(22) 501 97 20, 501 97 21, 501 97 22|(22) 620 34 45|boi@mokotow.sr.gov.pl
+Sąd Rejonowy dla Warszawy-Woli w Warszawie|Kocjana 3 |01-473 |(22) 328 60 20, 328 60 21, 328 60 22|(22) 328 62 28|boi@warszawa-wola.sr.gov.pl
+Sąd Rejonowy w Grodzisku Mazowieckim|Bartniaka 21/23|05-825|(22) 770 92 31|(22) 770 92 58|boi@grodzisk.sr.gov.pl
+Sąd Rejonowy w Piasecznie|Kościuszki 14|05-500|(22) 703 78 97, 703 79 04|(22) 703 79 07|boi@piaseczno.sr.gov.pl
+Sąd Rejonowy w Pruszkowie|Kraszewskiego 22|05-800|(22) 733 41 00|(22) 733 41 69|boi@warszawa.so.gov.pl
+Sąd Okręgowy Warszawa-Praga w Warszawie|Al. Solidarności 127|00-898|(22) 440 70 53|(22) 440 31 16|sekr.prezesa@warszawapraga.so.gov.pl 
+Sąd Rejonowy w Legionowie|Sobieskiego 47|05-118|(22) 782 36 01|(22) 782 36 09|administracja@legionowo.sr.gov.pl
+Sąd Rejonowy w Nowym Dworze Mazowieckim|Słowackiego 19|05-100 |(22)  732 50 04|(22) 732 50 09|srndwormaz@warszawapraga.sr.gov.pl
+Sąd Rejonowy w Otwocku|Armii Krajowej 2|05-400|(22) 778 20 50|(22) 778 20 51|boi@otwock.sr.gov.pl
+Sąd Rejonowy dla Warszawy Pragi-Południe w Warszawie |Terespolska 15a|03-813|(22) 509 16 74, 509 18 08|(22) 509 11 50|adm_srppd@warszawapraga.so.gov.pl
+Sąd Rejonowy dla Warszawy Pragi-Północ w Warszawie|Terespolska 15a|03-813|(22) 509 15 01|(22) 509 11 60|sekretariat.prezesa@srpragapolnoc.pl 
+Sąd Rejonowy w Wołominie|Prądzyńskiego 3A|05-200 |(22) 776 21 44, 776 28 15, 787 28 49|(22) 776 23 13 |boi@wolomin.sr.gov.pl
+Sąd Apelacyjny we Wrocławiu|Energetyczna 4|53-330 |(71) 798 77 99 |(71) 798 77 14 |boi@wroclaw.sa.gov.pl
+Sąd Okręgowy w Jeleniej Górze|Wojska Polskiego 56|58-500|(75) 641 52 51, 641 52 52|(75) 641 52 53|p.informacyjny@jelenia-gora.so.gov.pl 
+Sąd Rejonowy w Jeleniej Górze|Mickiewicza 21|58-500|(75) 671 28 30|(75) 671 28 01|poi@jelenia-gora.sr.gov.pl
+Sąd Rejonowy w Lubaniu|Pl. 3-go Maja 12|59-800|(75) 646 46 21|(75) 646 46 11|p.informacyjny@luban.sr.gov.pl
+Sąd Rejonowy w Lwówku Śląskim|Jaśkiewicza 12|59-600|(75) 646 94 50|(75) 646 94 80|biuro.podawcze@lwowekslaski.sr.gov.pl
+Sąd Rejonowy w Zgorzelcu|Poniatowskiego 2|59-900|(75) 645 69 31|(75) 645 69 62|poi@zgorzelec.sr.gov.pl
+Sąd Rejonowy w Kamiennej Górze|Wojska Polskiego|58-400|(75) 671 24 01|(75) 671 24 09|srkg@kamienna-gora.sr.gov.pl
+Sąd Rejonowy w Bolesławcu|Sądowa 1|59-700|(75) 646 95 50|(75) 646 95 34|poi@boleslawiec.sr.gov.pl
+Sąd Okręgowy w Legnicy|Złotoryjska 40|59-220|(76) 754 51 60, 754 51 62|(76) 754 50 99|boi@legnica.so.gov.pl
+Sąd Rejonowy w Legnicy|Złotoryjska 19|59-220|(76) 754 47 40|(76) 754 47 41|oddzial.administracyjny@legnica.sr.gov.pl
+Sąd Rejonowy w Głogowie|St. Kutrzeby 2|67-200|(76) 754 52 40|(76) 754 52 50|boi@glogow.sr.gov.pl
+Sąd Rejonowy w Jaworze|Klasztorna 5|59-400|(76) 754 40 01|(76) 870 28 85|sr.jawor@jawor.gov.pl
+Sąd Rejonowy w Lubinie|Wrocławska 3|59-300|(76) 754 42 10|(76) 754 42 11|boi@lubin.sr.gov.pl
+Sąd Rejonowy w Złotoryi|Kolejowa 3|59-500|(76) 745 90 14|(76) 745 90 02|k.kocuj@zlotoryja.sr.gov.pl
+Sąd Okręgowy w Opolu|Pl. Daszyńskiego 1|45-064|(77) 541 81 05, 541 81 90|(77) 541 81 09|boi@opole.so.gov.pl
+Sąd Rejonowy w Strzelcach Opolskich |Opolska 11|47-100|(77) 463 11 87, 463 11 77, 463 11 88|(77) 463 11 95|boi@strzelce.sr.gov.pl
+Sąd Rejonowy w Kędzierzynie-Koźlu|Żeromskiego 5|47-200|(77) 405 30 01, 405 31 99|(77) 405 30 02|podawcze@kozle.sr.gov.pl
+Sąd Rejonowy w Opolu|Ozimska 60a |45-368 |(77) 541 54 01, 541 54 08, 541 54 07|(77) 453 19 17|sr@opole.sr.gov.pl
+Sąd Rejonowy w Oleśnie |Sądowa 3|46-300|(34) 359 69 01|(34) 359 69 26|boi@olesno.sr.gov.pl
+Sąd Rejonowy w Kluczborku|Katowicka 2|46-200 |(77) 447 16 69|(77) 447 16 69 wew. 9|administracja@kluczbork.sr.gov.pl
+Sąd Rejonowy w Głubczycach|Kochanowskiego 1|48-100|(77) 471 06 00|(77) 471 06 27|administracja@glubczyce.sr.gov.pl
+Sąd Rejonowy w Nysie|Plac Kościelny 6|48-300|(77) 448 35 16|(77) 448 35 99|boi@nysa.sr.gov.pl 
+Sąd Rejonowy w Prudniku |Kościuszki 5|48-200 |(77) 443 86 00|(77) 443 86 02|boi@prudnik.sr.gov.pl
+Sąd Rejonowy w Brzegu|B. Chrobrego 31|49-300 |(77) 444 23 31, 444 23 32|(77) 444 23 92|boi@brzeg.sr.gov.pl
+Sąd Okręgowy w Świdnicy|Pl. Grunwaldzki 14|58-100|(74) 851 83 50|(74) 851 82 70|boi@swidnica.so.gov.pl
+Sąd Rejonowy w Dzierżoniowie|Świdnicka 51|58-200|(74) 633 41 00|(74) 633 41 88|informacja@dzierzoniow.sr.gov.pl
+Sąd Rejonowy w Świdnicy |Okulickiego 2-4|58-100|(74) 851 84 60|(74) 853 40 98|srs@swidnica.sr.gov.pl
+Sąd Rejonowy w Kłodzku|Bohaterów Getta 15|57-300|(74) 865 13 17|(74) 865 13 01|punktinformacyjny@klodzko.sr.gov.pl
+Sąd Rejonowy w Wałbrzychu|Słowackiego 10|58-300|(74) 843 03 00|(74) 842 30 25|informacja@walbrzych.sr.gov.pl
+Sąd Rejonowy w Ząbkowicach Śląskich|Świerkowa 1|57-200|(74) 816 51 00|(74) 816 51 31|poi@zabkowice.sr.gov.pl
+Sąd Okręgowy we Wrocławiu|Sądowa 1|50-046|(71) 370 42 01|(71) 344 49 59|punkt.informacyjny@wroclaw.so.gov.pl
+Sąd Rejonowy w Wołowie|M.Reja 11|56-100|(71) 756 61 49|(71) 756 61 37|biuro.podawcze@wolow.sr.gov.pl
+Sąd Rejonowy w Miliczu|Piłsudskiego 10|56-300|(71) 749 90 00|(71) 749 90 02|biuro.podawcze@milicz.sr.gov.pl
+Sąd Rejonowy w Strzelinie|Bolka I Świdnickiego 7|57-100|(71) 749 91 00|(71) 749 91 03|biuro.podawcze@strzelin.sr.gov.pl
+Sąd Rejonowy dla Wrocławia-Fabrycznej we Wrocławiu|Świebodzka 5|50-046|(71) 748 90 48|(71) 748 90 49|biuro.podawcze@wroclaw-fabryczna.sr.gov.pl
+Sąd Rejonowy dla Wrocława-Krzyków we Wrocławiu|Podwale 30|50-040|(71) 749 63 15|(71) 749 63 16|administracyjny@wroclaw-krzyki.sr.gov.pl
+Sąd Rejonowy dla Wrocławia-Śródmieścia we Wrocławiu|Podwale 30 |50-040|(71) 748 11 40|(71) 748 11 29|biuro.podawcze@wroclaw-srodmiescie.sr.gov.pl
+Sąd Rejonowy w Oławie|11 Listopada 12|55-200|(71) 749 92 00|(71) 749 92 01|punkt.informacyjny@olawa.sr.gov.pl
+Sąd Rejonowy w Oleśnicy|3 Maja 48/49|56-400|(71) 756 63 20|(74) 756 63 02|biuro.podawcze@olesnica.sr.gov.pl
+Sąd Rejonowy w Trzebnicy|Parkowa  4|55-100|(71) 756 62 04|(71) 756 62 00|administracyjny@trzebnica.sr.gov.pl
+Sąd Rejonowy w Środzie Śląskiej|św. Andrzeja 3|55-300|(71) 396 02 48|(71) 317 51 17|boi@srodaslaska.sr.gov.pl
