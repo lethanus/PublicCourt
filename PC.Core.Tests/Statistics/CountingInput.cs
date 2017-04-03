@@ -10,19 +10,26 @@ namespace PC.Core.Tests.Statistics
     {
         [Theory]
         [InlineData("2017-12-31", "2017-04-01", 1, StatisticType.Input)]
-        public void NewCourtCaseShouldAppearInStatistics(string statisticDateString, string inputDateString, int expectedValue, StatisticType statisticType)
+        [InlineData("2017-12-31", "2016-03-01", 0, StatisticType.Input)]
+        [InlineData("2016-12-31", "2017-03-01", 0, StatisticType.Input)]
+        public void NewCourtCaseShouldAppearInStatistics(string statisticDateString,
+            string inputDateString, int expectedValue, StatisticType statisticType)
         {
             var statisticDate = DateTime.Parse(statisticDateString);
             var inputDate = DateTime.Parse(inputDateString);
             var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate);
 
-            StatisticVerification.TestStatistic(courtCase, statisticDate, 1, statisticType);
+            StatisticVerification.TestStatistic(courtCase, statisticDate, expectedValue, statisticType);
             Assert.Equal(courtCase.InputDate, courtCase.OriginalInputDate);
         }
 
         [Theory]
         [InlineData("2017-12-31", "2017-04-01", "2015-04-01", 1, StatisticType.Input)]
-        public void NewReopenedCourtCaseShouldAppearInStatistics(string statisticDateString, string inputDateString, string originalInputDateString, int expectedValue, StatisticType statisticType)
+        [InlineData("2016-12-31", "2017-04-01", "2015-04-01", 0, StatisticType.Input)]
+        [InlineData("2017-12-31", "2016-04-01", "2015-04-01", 0, StatisticType.Input)]
+        public void NewReopenedCourtCaseShouldAppearInStatistics(string statisticDateString,
+            string inputDateString, string originalInputDateString, int expectedValue,
+            StatisticType statisticType)
         {
             var statisticDate = DateTime.Parse(statisticDateString);
             var inputDate = DateTime.Parse(inputDateString);

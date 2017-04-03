@@ -20,11 +20,11 @@ namespace PC.Core
             switch(statisitcType)
             {
                 case StatisticType.Input:
-                    return NewCases(courtCaseRepertory).Count();
+                    return ThisYearCases(courtCaseRepertory).Count();
                 case StatisticType.Closed:
                     return ClosedCases(courtCaseRepertory).Count();
                 case StatisticType.Open:
-                    return OpenCases(courtCaseRepertory).Count();
+                    return OpenCasesBeforeDate(courtCaseRepertory).Count();
                 case StatisticType.OpenFromPreviousYears:
                     return OpenCasesFromPreviousYears(courtCaseRepertory).Count();
                 default:
@@ -32,23 +32,29 @@ namespace PC.Core
             }
         }
 
-        private IEnumerable<CourtCase> NewCases(CourtCaseRepertory courtCaseRepertory)
+        private IEnumerable<CourtCase> ThisYearCases(CourtCaseRepertory courtCaseRepertory)
         {
             return courtCaseRepertory.Cases.Where(c => c.InputDate.Year == statisticDate.Year);
         }
 
         private IEnumerable<CourtCase> ClosedCases(CourtCaseRepertory courtCaseRepertory)
         {
-            return courtCaseRepertory.Cases.Where(c => c.CloseDate.HasValue && c.CloseDate.Value.Year == statisticDate.Year);
+            return courtCaseRepertory.Cases.Where(c => c.CloseDate.HasValue && c.CloseDate.Value < statisticDate);
         }
 
         private IEnumerable<CourtCase> OpenCases(CourtCaseRepertory courtCaseRepertory)
         {
-            return courtCaseRepertory.Cases.Where(c => c.CloseDate == null && c.InputDate < statisticDate);
+            return courtCaseRepertory.Cases.Where(c => c.CloseDate == null);
         }
+
+        private IEnumerable<CourtCase> OpenCasesBeforeDate(CourtCaseRepertory courtCaseRepertory)
+        {
+            return OpenCases(courtCaseRepertory).Where(c => c.InputDate < statisticDate);
+        }
+
         private IEnumerable<CourtCase> OpenCasesFromPreviousYears(CourtCaseRepertory courtCaseRepertory)
         {
-            return courtCaseRepertory.Cases.Where(c => c.CloseDate == null && c.InputDate > c.OriginalInputDate && c.InputDate < statisticDate);
+            return OpenCases(courtCaseRepertory).Where(c => c.OriginalInputDate.Year < statisticDate.Year);
         }
 
     }

@@ -10,14 +10,18 @@ namespace PC.Core.Tests.Statistics
     {
         [Theory]
         [InlineData("2017-12-31", "2017-02-01", "2017-03-22", 1, StatisticType.Closed)]
-        public void ClosedCourtCaseShouldAppearInStatistics(string statisticDateString, string inputDateString, string closeDateString, int expectedValue, StatisticType statisticType)
+        [InlineData("2016-12-31", "2016-02-01", "2017-03-22", 0, StatisticType.Closed)]
+        [InlineData("2017-12-31", "2015-02-01", "2016-03-22", 1, StatisticType.Closed)]
+        public void ClosedCourtCaseShouldAppearInStatistics(string statisticDateString,
+            string inputDateString, string closeDateString, int expectedValue,
+            StatisticType statisticType)
         {
             var statisticDate = DateTime.Parse(statisticDateString);
             var inputDate = DateTime.Parse(inputDateString);
             var closeDate = DateTime.Parse(closeDateString);
             var courtCase = CourtCaseBuilder.BuildCourtCase(inputDate, inputDate, closeDate);
 
-            StatisticVerification.TestStatistic(courtCase, statisticDate, 1, statisticType);
+            StatisticVerification.TestStatistic(courtCase, statisticDate, expectedValue, statisticType);
         }
     }
 }
