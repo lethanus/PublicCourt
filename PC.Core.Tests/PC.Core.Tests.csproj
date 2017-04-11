@@ -7,8 +7,8 @@
     <ProjectGuid>{44D94179-E91F-4F93-986D-90D569AD571A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PC.Core.Tests3</RootNamespace>
-    <AssemblyName>PC.Core.Tests3</AssemblyName>
+    <RootNamespace>PC.Core.Tests</RootNamespace>
+    <AssemblyName>PC.Core.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
