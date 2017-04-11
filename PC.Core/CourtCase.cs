@@ -24,8 +24,8 @@ namespace PC.Core
             this.closeDate = closeDate;
         }
 
-        public DateTime InputDate { get => inputDate; }
-        public DateTime OriginalInputDate { get => originalInputDate; }
-        public DateTime? CloseDate { get => closeDate; }
+        public DateTime InputDate { get { return inputDate; } }
+        public DateTime OriginalInputDate { get { return originalInputDate; } }
+        public DateTime? CloseDate { get { return closeDate; } }
     }
 }
